@@ -1,0 +1,6 @@
+image_name,numbers_detected,sum
+image_01.jpeg,35 | 20 | 42 | 95,192
+image_02.jpeg,19 | 21 | 46 | 8 | 6,100
+image_03.jpeg,13 | 47 | 2 | 3 | 4 | 5 | 6,80
+image_04.jpeg,47 | 54 | 36 | 5 | 6,148
+image_05.jpeg,47 | 54 | 36,137
